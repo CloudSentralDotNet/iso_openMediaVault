@@ -1,5 +1,3 @@
-Hi,
-
 Manual available at;
 
 https://github.com/CloudSentralDotNet/iso_openMediaVault/blob/master/Manual-OpenMediaVault-OMV5.pdf
